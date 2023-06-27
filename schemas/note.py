@@ -1,5 +1,3 @@
-from models import note
-
 
 def NoteSchema(item) -> dict:
     return {
